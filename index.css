@@ -1,0 +1,19 @@
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    /* background-color: #f8f9fa; */
+    background-image: url("background.jpg");
+    padding-top: 56px; /* Adjust for fixed navbar height */
+}
+
+h2 {
+    margin-top: 20px;
+    color: #343a40;
+}
+
+.hero-section {
+    background: url('hero-bg.jpg') no-repeat center center/cover;
+    height: 100vh;
+}
